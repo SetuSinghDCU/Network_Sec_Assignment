@@ -63,29 +63,6 @@ This project is intended for educational purposes as part of the CSC1134 Network
 2. Edit video and add explanatory elements
 3. Produce and test final video
 
-## Team Roles
-
-### Team Member 1 (Focus: Environment & Zone Transfer)
-
-- Lead Days 1-2 for environment setup
-- Lead Day 3 for Zone Transfer attack
-- Support Day 7 for defense implementation
-- Record assigned parts on Day 9
-
-### Team Member 2 (Focus: Cache Poisoning)
-
-- Support Days 1-2 for environment setup
-- Lead Days 4-5 for Cache Poisoning attack
-- Support Day 8 for defense implementation
-- Record assigned parts on Day 9
-
-### Team Member 3 (Focus: Documentation & Video)
-
-- Document configurations during Days 1-3
-- Support attack implementations on Days 3-5
-- Lead Days 7-8 for defense documentation
-- Lead Days 9-10 for video production
-
 ## Getting Started
 
 1. Start by reviewing [requirements.md](requirements.md) and [proposal.md](proposal.md) to understand the project scope
